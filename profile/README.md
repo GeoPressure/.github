@@ -1,72 +1,26 @@
-# geopressure
+Welcome to **GeoPressure**, the GitHub organization developing open tools for geolocation and movement ecology based on multi-sensor geolocator data.
 
-Welcome to the **geopressure** GitHub organization.
+🔗 **Explore the ecosystem:** https://geopressure.org/
 
-This organization brings together the repositories built around the **GeoPressure** ecosystem for analysing animal geolocation data, with a strong focus on multi-sensor geolocators and pressure-based movement inference.
+This website is the central entry point to all repositories, documentation, and tools. It provides a simple overview of the ecosystem and is the best place to start.
 
-Our goal is to make the full workflow more open, reproducible, and easier to use, from raw data processing to geolocation, visualization, validation, and data sharing.
-
-## What you will find here
-
-The organization hosts the different **geo*** repositories, including tools for:
-
-- processing geolocator data
-- estimating locations from pressure, light, and other sensors
-- exploring and visualizing tracks
-- validating and standardizing data formats
-- exchanging and aggregating datasets
-- supporting reproducible research workflows
-
-## Main repositories
-
-A few key repositories in the ecosystem include:
-
-- **GeoPressureR**  
-  Core R package for pressure-based geolocation analysis.
-
-- **GeoLocatoR**  
-  Tools for working with GeoLocator Data Packages and related workflows.
-
-- **GeoLocator-DP**  
-  Specification and documentation for the GeoLocator Data Package standard.
-
-- **GeoPressureTemplate**  
-  Template repository to start a standardized geolocation project.
-
-- **GeoLocatorExplorer**  
-  Interactive tools to explore and visualize geolocator datasets.
-
-- **GeoLocatorAggregator**  
-  Utilities to combine and curate multiple GeoLocator Data Packages.
-
-## Principles
-
-We aim to build tools that are:
-
-- **open-source**
-- **reproducible**
-- **modular**
-- **FAIR-oriented**
-- **community-driven**
-
-## Documentation
-
-Documentation is distributed across repositories. Please start with the README of the repository you are interested in.
-
-For user-oriented documentation and examples, see the dedicated package websites and manuals linked from each repository.
+---
 
 ## Contributing
 
-Contributions, bug reports, feature requests, and suggestions are welcome.  
-Please open an issue in the relevant repository if you would like to report a problem or discuss an idea.
+Contributions are welcome across all repositories.
 
-## Citation
+You can:
 
-If you use one of these tools in research, please cite the corresponding package or repository as indicated in its documentation.
+- report issues  
+- suggest improvements  
+- contribute code or documentation  
+- share use cases or datasets  
 
-## Contact
-
-This organization is maintained by **Raphaël Nussbaumer** and collaborators.
+Please open an issue in the relevant repository to start a discussion.
 
 ---
-**geopressure** develops open tools for geolocation, movement ecology, and geolocator data standards.
+
+## Maintainers
+
+Maintained by **Raphaël Nussbaumer** and collaborators.
