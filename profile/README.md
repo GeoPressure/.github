@@ -4,7 +4,6 @@ Welcome to **GeoPressure**, the GitHub organization developing open tools for ge
 
 This website is the central entry point to all repositories, documentation, and tools. It provides a simple overview of the ecosystem and is the best place to start.
 
----
 
 ## Contributing
 
@@ -19,8 +18,3 @@ You can:
 
 Please open an issue in the relevant repository to start a discussion.
 
----
-
-## Maintainers
-
-Maintained by **Raphaël Nussbaumer** and collaborators.
