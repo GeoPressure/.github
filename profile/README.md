@@ -17,8 +17,8 @@ You can:
 
 To start a discussion, please open an issue in the relevant repository.
 
-## Mailing list
+## Forum
 
-For updates, questions, and community discussion, you can join the GeoPressure mailing list:
+For updates, questions, and community discussion, you can join the GeoPressure forum :
 
-🔗 https://groups.google.com/g/geopressurer/
+🔗 https://geopressure.discourse.group
